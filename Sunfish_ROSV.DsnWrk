@@ -4,3 +4,5 @@ Version=1.0
 ProjectPath=Sunfish_ECU_RevA\Sunfish_ECU_RevA.PrjPcb
 [Project2]
 ProjectPath=WebCamLight_RevA\WebCamLight_RevA.PrjPcb
+[Project3]
+ProjectPath=WebCamLight_RevB\WebCamLight_RevB.PrjPcb
